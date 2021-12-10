@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/PIPI-2.0/src/main/libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/PIPI-2.0/src/main/libs" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/PIPI-2.0/src/main/libs" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/PIPI-2.0/src/main/libs" recursive="false" type="SOURCES" />
+  </library>
+</component>
